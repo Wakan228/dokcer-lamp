@@ -1,0 +1,1 @@
+*/5 * * * * /usr/bin/php /var/www/html/update.php
