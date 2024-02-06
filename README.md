@@ -28,4 +28,4 @@ when the user clicks on the confirmation email - the script confirms the email i
 
 the server through CRON regularly checks all the products that are in the database and if there is a difference in price, it makes a selection based on emails that are subscribed to this product and confirmed and sends a message to the email with the changed price and a link to the product
 
-You can see the diagram along the way - data/API.pdf
+You can see the diagram along the way - www/assets/images/API.pdf
