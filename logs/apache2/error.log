@@ -1,0 +1,190 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 05 15:05:20.245016 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.57 (Debian) PHP/8.3.2 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon Feb 05 15:05:20.245213 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+[Mon Feb 05 22:28:24.711011 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 05 22:29:27.530661 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.57 (Debian) PHP/8.3.2 OpenSSL/3.0.11 configured -- resuming normal operations
+[Mon Feb 05 22:29:27.530900 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Feb 05 22:42:25.417313 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 06 06:56:30.499448 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.57 (Debian) PHP/8.3.2 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue Feb 06 06:56:30.499587 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+[Tue Feb 06 07:37:18.753783 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 06 07:37:20.337153 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.57 (Debian) PHP/8.3.2 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue Feb 06 07:37:20.337314 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+[Tue Feb 06 07:44:17.413920 2024] [php:error] [pid 18] [client 172.18.0.1:45622] script '/var/www/html/test.php' not found or unable to stat, referer: http://localhost:443/test.php
+sh: 1: /usr/sbin/sendmail: not found
+[Tue Feb 06 07:53:30.078981 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 06 08:01:00.567977 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.57 (Debian) PHP/8.3.2 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue Feb 06 08:01:00.568122 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+sh: 1: d:programospaneluserdatatempemail\: not found
+sh: 1: d:programospaneluserdatatempemail\: not found
+[Tue Feb 06 08:02:05.366167 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 06 08:02:07.823577 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.57 (Debian) PHP/8.3.2 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue Feb 06 08:02:07.823755 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+sh: 1: d:programospaneluserdatatempemail: not found
+[Tue Feb 06 08:22:53.929944 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 06 08:23:05.761228 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.57 (Debian) PHP/8.3.2 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue Feb 06 08:23:05.761379 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Feb 06 08:24:12.350530 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 06 08:24:14.056148 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.57 (Debian) PHP/8.3.2 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue Feb 06 08:24:14.056349 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 06 18:49:56.410687 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.57 (Debian) PHP/8.3.2 OpenSSL/3.0.11 configured -- resuming normal operations
+[Tue Feb 06 18:49:56.410954 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Feb 06 18:50:10.981556 2024] [autoindex:error] [pid 17] [client 172.18.0.1:42658] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
