@@ -118,6 +118,9 @@ class Construction extends Database
     public function updatePrise()
     {
         $array_order = parent::getAllIdOrder();
+        if(empty($array_order)){
+            die();
+        }
         foreach ($array_order as $key => $value) {
             $prise = self::getPriseByOrder($value['id_order']);
             if($prise[0] != $value['prise']){
