@@ -18,6 +18,8 @@ docker-compose up -d
 
 import actual_price.sql to database 
 
+import cron.d
+
 ## How it works
 
 the user sends a json {"url":"","mail":""} to the page api.php
