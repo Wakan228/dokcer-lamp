@@ -9,7 +9,7 @@
 
 ```shell
 git clone https://github.com/Wakan228/dokcer-lamp.git
-cd docker-compose-lamp/
+cd dokcer-lamp/
 cp sample.env .env
 // modify sample.env as needed
 docker-compose up -d
