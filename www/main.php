@@ -132,19 +132,4 @@ class Construction extends Database
         }
     }
 }
-?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <form action="/api.php" method="POST">
-        <textarea type="text" name="jason"></textarea>
-        <button type="submit">12312</button>
-    </form>
-</body>
-</html>
 
